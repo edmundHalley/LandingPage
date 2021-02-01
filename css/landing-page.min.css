@@ -50,3 +50,21 @@ font-weight:700}header.masthead{position:relative;background-color: var(--gry)!i
     -webkit-animation-timing-function: linear;
     animation-timing-function: linear;
 }
+
+#img1 {display: block;}
+#img2 {display: block;}
+#img3 {display: block;}
+
+#img1_m {display: none;}
+#img2_m {display: none;}
+#img3_m {display: none;}
+
+@media screen and (max-width: 700px) {
+    #img1 {display: none;}
+    #img2 {display: none;}
+    #img3 {display: none;}
+
+    #img1_m {display: block;}
+    #img2_m {display: block;}
+    #img3_m {display: block;}
+}
