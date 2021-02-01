@@ -72,7 +72,7 @@ font-weight:700}header.masthead{position:relative;background-color: var(--gry)!i
 #logo {display: block;}
 #logo_m {display: none;}
 
-@media screen and (max-width: 440px){
+@media screen and (max-width: 446px){
     #logo {display: none;}
     #logo_m {display: block;}
 }
