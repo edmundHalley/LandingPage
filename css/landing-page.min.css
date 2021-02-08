@@ -106,10 +106,10 @@ font-weight:700}header.masthead{position:relative;background-color: var(--gry)!i
     #logo_m {display: block;}
 }
 
-
-
-
-
+.contenido {
+	margin-left: -3vw;
+	margin-right: -3vw;
+}
 
 
 .footer-distributed{
