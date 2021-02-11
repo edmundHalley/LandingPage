@@ -37,7 +37,6 @@ body {
 
 .masthead {    
  background-color: var(--gry)!important;
-    background-image: url("../img/back.png")!important;
     background-position: center center;
     background-size: 500px!important;
     
@@ -49,7 +48,6 @@ body {
 
 .call-to-action {
 background-color: var(--gry)!important;
-    background-image: url("../img/back.png")!important;
     background-position: center center;
     background-size: 500px!important;
     
@@ -68,7 +66,7 @@ a, .text-primary {
 
 
 section.pricing {
-  background: #eeeeee url("../img/book.gif") repeat-y center left!important;
+  background: #eeeeee repeat-y center left!important;
 }
 
 .pricing .card {
